@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Codystar|Coustard|Tomorrow&display=swap");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body {
+	background-color: white;
+	color:white;
+	font-family: 'Tomorrow', sans-serif;
+  	font-size: 18px;
+  	margin: 0px;
+}
+p{
+	color: black;
+	margin:20px;
+	text-align:center;
+}
+h1{
+	font-family: 'Codystar', cursive;
+}
+a {
+  text-decoration: none;
+}

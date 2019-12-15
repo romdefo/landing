@@ -1,0 +1,28 @@
+.btn-blue {
+	background-color: #18437E;
+	font-size:18px;
+	color:white;
+	padding:10px 15px;
+	border-radius: 4px;
+}
+.btn-blue:hover {
+	background-color:black;
+	color:white;
+}
+.btn-white {
+	background-color: rgb(0,0,0,0.4);
+	color:white;
+	font-family: 'Codystar', cursive;
+	font-size:20.5px;
+	padding:5px 5px;
+}
+.planet-name {
+	color:white;
+	font-family: 'Tomorrow', sans-serif;
+	font-style:bold;
+  	font-size: 24px;
+  	margin-left: 30px;
+}
+.planet-name:hover {
+	color:yellow;
+}
